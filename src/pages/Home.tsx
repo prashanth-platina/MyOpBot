@@ -17,7 +17,7 @@ import {
 import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 
-const BOT_INVITE_LINK = "https://discord.com/oauth2/authorize?client_id=1507679390979461200";
+const BOT_INVITE_LINK = "https://discord.com/oauth2/authorize?client_id=1507679390979461200&permissions=0&scope=bot%20applications.commands";
 
 const fadeIn = {
   hidden: { opacity: 0, y: 20 },
