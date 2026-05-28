@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+
+# build outputs
+/dist
+/build
+
+# local environment files
+/.env
+/.env.*
+
+# editor and OS files
+.DS_Store
+Thumbs.db
+
+# repl.it artifact
+.replit-artifact/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite cache
+/.vite
